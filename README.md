@@ -1,5 +1,8 @@
 # Olá, tudo bem?
 
+Sou Ryan e tenho interesse em desenvolvimento de aplicações Web e Data Science. Sou apaixonado em novas tecnologias e em novas áreas da tecnologia.
+
+
 
 ## Interesses
 
@@ -22,6 +25,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 ## Estatísticas
+<div style="display: flex; align-items: center; justify-content: flex">
 [![](https://raw.githubusercontent.com/ryan-fauder/ryan-fauder/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ryan-fauder/ryan-fauder/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ryan-fauder/ryan-fauder/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ryan-fauder/ryan-fauder/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ryan-fauder/ryan-fauder/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
