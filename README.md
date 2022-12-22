@@ -1,6 +1,6 @@
 # Olá, tudo bem?
 
-Sou Ryan e tenho interesse em desenvolvimento de aplicações Web e Data Science. Sou apaixonado em novas tecnologias e áreas da tecnologia. Possuo experiência principalmente nas linguagens de Javascript, Python e C++. 
+Sou Ryan e tenho interesse em desenvolvimento de aplicações Web e Data Science. Sou apaixonado em novas tecnologias e estou sempre em busca de aprimorar minhas habilidades técnicas. Possuo experiência principalmente nas linguagens de Javascript, Python e C++. 
 
 
 
